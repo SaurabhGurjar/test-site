@@ -60,7 +60,9 @@
      }
 
      img {
-         max-width: 800px;
+        border-radius: 8px;
+        height: auto;
+        max-width: 100%;
      }
 
      @media screen and (max-width: 800px) {
